@@ -1,0 +1,11 @@
+body {
+  margin-top: 50px;
+  padding-bottom: 50px;
+  background: beige;
+}
+textarea {
+  width: 100%;
+    padding: 10px;
+  font-size: 2em;
+  border: solid 8px gray;
+}
